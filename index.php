@@ -5,6 +5,11 @@
     </head>
     <body>
         <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat provident obcaecati, placeat nihil, molestiae optio, odio ex at quis quam consequuntur itaque ipsum commodi quibusdam non ullam culpa quia laboriosam!</p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat provident obcaecati, placeat nihil, molestiae optio, odio ex at quis quam consequuntur itaque ipsum commodi quibusdam non ullam culpa quia laboriosam!
+        </p>
+        <ul>
+            <li>satu</li>
+            <li>dua</li>
+        </ul>
     </body>
 </html>
